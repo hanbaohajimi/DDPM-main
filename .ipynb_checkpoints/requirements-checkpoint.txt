@@ -1,8 +1,0 @@
-torch==2.0.0+cu118
-torchvision==0.15.1+cu118
-einops
-wandb
-joblib
-matplotlib
-tqdm
-
